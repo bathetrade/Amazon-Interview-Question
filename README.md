@@ -1,6 +1,6 @@
 ABOUT THIS PROGRAM 
 -------------------
-This program (problemSolver) attempts to solve Amazon's interview question about how many "shapes" exist in a randomly generated MxN grid, such as this 3x4 grid:
+This program attempts to solve Amazon's interview question about how many "shapes" exist in a randomly generated MxN grid, such as this 3x4 grid:
 
 1 0 1 1   
 1 0 0 1   
