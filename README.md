@@ -27,4 +27,4 @@ has 2 separate shapes.
 
 HOW TO USE THE PROGRAM 
 ----------------------
-Run "problemGenerator" to generate the file "input.txt," which contains a randomly generated MxN grid with a random number of shapes. Then, run problemSolver to display the number of shapes contained in the grid. 
+Run "generator" to generate the file "input.txt," which contains a randomly generated MxN grid with a random number of shapes. Then, run "solver" to display the number of shapes contained in the grid.

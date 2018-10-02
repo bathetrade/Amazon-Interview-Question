@@ -3,10 +3,6 @@
 
 //The cell (i,j) is in 0-based indices. First row is the 0th row, second column has an index of 1, etc.
 
-//Also, I am aware that using shorts is often less efficient than using ints, due to 
-//multiple arithmetic instructions being used on non-32-bit operands. I was not aware of
-//this at the time I wrote this class.
-
 struct Cell {
 	bool value;
 	bool visited;
